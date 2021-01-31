@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 0291afed64c568741983066d6a5287a9
+  - enabled: 1
+    path: Assets/Scenes/Megalovania.unity
+    guid: 8f47e388f8938824c8bf0c1d36c5fd73
+  - enabled: 1
+    path: Assets/Scenes/DialogueTest.unity
+    guid: 20b3f5b3162887e419bf2404db61044f
+  - enabled: 1
+    path: Assets/Scenes/FirstDanger.unity
+    guid: 56982d4a24b01c3448b649cf9a7f1cbc
+  - enabled: 1
+    path: Assets/Scenes/FirstString.unity
+    guid: 862af1ee8b77c3240ac582311c07a21e
+  - enabled: 1
+    path: Assets/Scenes/NodePair.unity
+    guid: ef8f5cda808915740bd1102f46812bda
+  - enabled: 1
+    path: Assets/Scenes/HarderBox.unity
+    guid: e0e9c001c0d9e5a40b000e1a459d07ce
+  - enabled: 1
+    path: Assets/Scenes/BetweenLines.unity
+    guid: 8ce9e8056d95b45468ee8c4be210b343
+  - enabled: 1
+    path: Assets/Scenes/ActualFirstFollower.unity
+    guid: 69c6116c377f7d048ad8f0ede214c618
+  - enabled: 1
+    path: Assets/Scenes/Preoutpost.unity
+    guid: 411ea9ec1bc43f44c92685476c16a7ce
+  - enabled: 1
+    path: Assets/Scenes/Outpost.unity
+    guid: 9035c9c5a963f9345b01694a6b270621
+  - enabled: 1
+    path: Assets/Scenes/Revolvers.unity
+    guid: eba64a706e40ee149915d1f6ed583a77
+  - enabled: 1
+    path: Assets/Scenes/DoubleCorner.unity
+    guid: fa869a19b9b189b41959b31bd6a8e811
+  - enabled: 1
+    path: Assets/Scenes/FirstFollower.unity
+    guid: c8134847a5cfe2944925a4752599378d
+  - enabled: 1
+    path: Assets/Scenes/DoubleFollower.unity
+    guid: 4269b1567db775648891ae37b5631949
+  - enabled: 1
+    path: Assets/Scenes/SampleLevel.unity
+    guid: a8d5e194336683245a8c2015fd235195
+  - enabled: 1
+    path: Assets/Scenes/Passcode.unity
+    guid: 886bd6b57e6038e4a8c56775360da348
+  - enabled: 1
+    path: Assets/Scenes/ComplexWires.unity
+    guid: 887689d2a7a3cf94a9736624d7aadf80
+  - enabled: 1
+    path: Assets/Scenes/Dance.unity
+    guid: e4ddbf22a133f3b46ab5140bc2905d8d
+  - enabled: 1
+    path: Assets/Scenes/UpDownHallway.unity
+    guid: f8d6810b5196d30478e6c41090fce1a4
+  - enabled: 1
+    path: Assets/Scenes/HedronRoom.unity
+    guid: 4b57842f851b560448352f4bf6223fa8
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: 05d557cc852c7cb45ab6742d6e49e872
+  - enabled: 1
+    path: Assets/Scenes/FinalTitle.unity
+    guid: 446e2a51aa72f6f4e9224c4e01ac666b
+  m_configObjects: {}

@@ -1,0 +1,1 @@
+[Sub String](https://1f1n1ty.itch.io/sub-string/)
